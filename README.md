@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthias
 - 👀 I’m interested in Landscape- and Astro Photograpy. Fuji for live!
-- 🌱 I’m still learning a lot ;)
+- 🌱 I always want to learn new things ;)
 - 📫 You can reach me over LinkedIn => https://www.linkedin.com/in/matthias-braun-cloud-solutions/
 
 <!---
